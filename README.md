@@ -1,0 +1,2 @@
+# ParadigmasUTN
+Paradigm exercises guide
