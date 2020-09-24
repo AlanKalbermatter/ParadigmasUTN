@@ -1,0 +1,12 @@
+|A B RESULTADO|
+
+A := 25.
+B := 5.
+RESULTADO := 0. 
+
+[ A~~0 ] whileTrue: [ 
+	A := A - B.
+	RESULTADO := RESULTADO + 1.
+	 ].
+Transcript clear.
+Transcript show: RESULTADO
